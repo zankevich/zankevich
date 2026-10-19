@@ -1,0 +1,9 @@
+{
+  "name": "zankevich-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node generate-headers.mjs",
+    "check": "node generate-headers.mjs --check"
+  }
+}
