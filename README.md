@@ -10,9 +10,9 @@ I build AI features into products, lead the engineering teams that ship them and
 
 ## Open Source Contributions
 
-- [CVAT](https://github.com/cvat-ai/cvat): a platform for annotating image and video datasets for computer vision.
 - [FlexGet](https://github.com/Flexget/Flexget): a Python tool for collecting and downloading content from feeds and other sources.
 - [Nebular](https://github.com/akveo/nebular): an Angular UI library based on the Eva Design System.
+- [CVAT](https://github.com/cvat-ai/cvat): a platform for annotating image and video datasets for computer vision.
 
 ---
 
